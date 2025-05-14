@@ -1,0 +1,13 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.espIdfPathWin": "C:\\esp\\v5.4.1\\esp-idf",
+  "idf.pythonInstallPath": "C:\\.espressif\\tools\\idf-python\\3.11.2\\python.exe",
+  "idf.openOcdConfigs": [
+    "board/esp32-wrover-kit-3.3v.cfg"
+  ],
+  "idf.portWin": "COM3",
+  "idf.toolsPathWin": "C:\\.espressif",
+  "idf.customExtraVars": {
+    "IDF_TARGET": "C:\\esp\\v5.4.1\\esp-idf\\tools\\idf.py:368: DeprecationWarning: 'MultiCommand' is deprecated and will be removed in Click 9.0. Use 'Group' instead."
+  }
+}
